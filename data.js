@@ -284,13 +284,9 @@ var APP_DATA = {
         {
           "tileSize": 512,
           "size": 1024
-        },
-        {
-          "tileSize": 512,
-          "size": 2048
         }
       ],
-      "faceSize": 2048,
+      "faceSize": 1024,
       "initialViewParameters": {
         "pitch": 0,
         "yaw": 0,
@@ -298,8 +294,8 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": 2.192543269928904,
-          "pitch": 0.2464008219067093,
+          "yaw": -0.5147466095367363,
+          "pitch": 0.26982513069672365,
           "rotation": 0,
           "target": "3-estudio-pasillo"
         }
