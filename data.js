@@ -76,6 +76,18 @@ var APP_DATA = {
           "pitch": 0.2986713025591108,
           "rotation": 0,
           "target": "2-sala-de-estar-2"
+        },
+        {
+          "yaw": -2.4864366038694925,
+          "pitch": 0.2629551216909043,
+          "rotation": 0,
+          "target": "0-cocina"
+        },
+        {
+          "yaw": 1.4549854325838574,
+          "pitch": 0.1579765414108767,
+          "rotation": 0,
+          "target": "3-estudio-pasillo"
         }
       ],
       "infoHotspots": []
@@ -114,6 +126,12 @@ var APP_DATA = {
           "pitch": 0.23192598737734116,
           "rotation": 0,
           "target": "1-sala-de-estar-1"
+        },
+        {
+          "yaw": -0.6558974979342587,
+          "pitch": 0.14445479967211838,
+          "rotation": 0,
+          "target": "3-estudio-pasillo"
         }
       ],
       "infoHotspots": []
@@ -164,6 +182,12 @@ var APP_DATA = {
           "pitch": 0.21212058451213878,
           "rotation": 0,
           "target": "6-alcoba-ppal"
+        },
+        {
+          "yaw": -1.5254504415107277,
+          "pitch": 0.030079356466536922,
+          "rotation": 0,
+          "target": "0-cocina"
         }
       ],
       "infoHotspots": []
@@ -287,7 +311,7 @@ var APP_DATA = {
   "settings": {
     "mouseViewMode": "drag",
     "autorotateEnabled": false,
-    "fullscreenButton": false,
+    "fullscreenButton": true,
     "viewControlButtons": false
   }
 };
