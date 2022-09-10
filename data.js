@@ -301,13 +301,13 @@ var APP_DATA = {
           "yaw": 2.192543269928904,
           "pitch": 0.2464008219067093,
           "rotation": 0,
-          "target": "0-cocina"
+          "target": "3-estudio-pasillo"
         }
       ],
       "infoHotspots": []
     }
   ],
-  "name": "Project Title",
+  "name": "Sergio Alejandro Salazar",
   "settings": {
     "mouseViewMode": "drag",
     "autorotateEnabled": false,
